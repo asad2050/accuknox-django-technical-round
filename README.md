@@ -1,4 +1,3 @@
----
 
 # Documentation
 
@@ -34,4 +33,3 @@ This script demonstrates:
 
 Feel free to explore these files for clear and practical examples!
 
----
