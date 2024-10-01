@@ -1,6 +1,6 @@
 ---
 
-# Project Documentation
+# Documentation
 
 This repository contains answers and examples for two main topics:
 
@@ -11,7 +11,7 @@ This repository contains answers and examples for two main topics:
 
 ### 1. Django Signals
 For detailed answers and code examples related to Django Signals, please refer to the file:  
-**[`django_signals.md`](./django_signals.md)**
+[`django_signals.md`](./django_signals.md)
 
 This document includes answers to the following questions:
 - Are Django signals executed synchronously or asynchronously?
@@ -20,7 +20,7 @@ This document includes answers to the following questions:
 
 ### 2. Python Custom Classes (Rectangle Class)
 For explanations and code on Python custom classes, specifically the `Rectangle` class with `__iter__` functionality, refer to the file:  
-**[`rectangle_class.py`](./rectangle_class.py)**
+[`rectangle_class.py`](./rectangle_class.py)
 
 This script demonstrates:
 - How to define a Python class (`Rectangle`) with a custom `__iter__` method to allow iteration over the object's attributes.
